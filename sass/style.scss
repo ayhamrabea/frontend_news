@@ -310,4 +310,59 @@ section{
         }
     }
 
+    &.latest-news{
+
+        p{
+            margin-top: 10px;
+            color: $black-color;
+        }
+
+        .button{
+            @include button($main-color ,$white-color , $main-color);
+            font-size: 20px;
+        }
+    }
+
+}
+
+
+footer{
+    padding-bottom: 50px;
+    .footer-title{
+        margin-bottom: 30px;
+        position: relative;
+        &::after{
+            content: " ";
+            position: absolute;
+            width: 50px;
+            height: 5px;
+            background-color: $main-color;
+            left: 0;
+            bottom: -12px
+        }
+    }
+
+    .link-unstyled{
+        text-decoration: none;
+        color: $black-color;
+    }
+
+    .social-media{
+        list-style: none;
+        padding: 0;
+        
+        &-icon{
+            display: inline;
+            margin: 7px;
+            img{
+                width: 40px;
+            }
+        }
+    }
+
+    .footer-brand{
+        color: $main-color;
+        font-size: 30px;
+        text-decoration: none;
+    }
 }

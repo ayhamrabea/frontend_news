@@ -8,3 +8,6 @@ var swiper = new Swiper(".swiper", {
         clickable: true,
     },
 });
+
+
+document.getElementById("year").innerHTML = new Date().getFullYear()
