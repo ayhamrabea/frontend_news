@@ -29,6 +29,7 @@ a{
         font-size: 20px;
         word-wrap: break-word;
         color: $black-color;
+        margin-top: 10px;
     }
 
     &-link{
@@ -122,6 +123,16 @@ header{
                         visibility: visible;
                     }
                 }
+            }
+        }
+        .login-button{
+            .button{
+                @include button($main-color , $white-color , $main-color);
+                font-size: 16px;
+                width: 50%;
+                text-align: center;
+                margin: 15PX auto;
+                display: none;
             }
         }
         form{
@@ -364,5 +375,141 @@ footer{
         color: $main-color;
         font-size: 30px;
         text-decoration: none;
+    }
+}
+
+
+@media (max-width: 1400px){
+    header{
+        .header-news{
+            .carousel{
+                &-item {
+                    h3{
+                        font-size: 18px;
+                        &::after{
+                            right:280px;
+
+                        }
+                    }
+                }
+                &-indicators{
+                    left: -450px;
+                }
+            }
+        }
+    }
+
+    .article{
+        &-title{
+            font-size: 18px;
+        }
+        &-category{
+            font-size: 14px;
+        }
+    }
+}
+
+@media (max-width: 1200px){
+    header{
+        .header-news{
+            .carousel{
+                &-item {
+                    h3{
+                        &::after{
+                            right:230px;
+
+                        }
+                    }
+                }
+                &-indicators{
+                    left: -400px;
+                }
+                &-news::after{
+                    height: 170px;
+                    top: 100px;
+                }
+            }
+
+        }
+    }
+
+    .article{
+        &-title{
+            font-size: 14px;
+        }
+
+    }
+    section.videos{
+        .swiper{
+            .swiper-slide{
+                .silde-img{
+                    img{
+                        width: 255px;
+                        height: 200px;
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+@media (max-width: 992px){
+    header{
+        .header-news{
+            .carousel{
+                &-item {
+                    h3{
+                        &::after{
+                            display: none;
+                        }
+                    }
+                }
+                &-indicators{
+                    left: 0;
+                }
+                &-news::after{
+                    height: 170px;
+                    top: 100px;
+                }
+            }
+
+        }
+        .login{
+            display: none;
+        }
+        .navbar{
+            .login-button{
+                .button{
+                    display: block;
+                }
+            }
+        }
+        
+    }
+
+    .article{
+        &-title{
+            font-size: 18px;
+        }
+
+    }
+}
+
+@media (max-width: 768px){
+    header{
+        .header-news{
+            .carousel-news::after{
+                display: none;
+            }
+
+        }
+    }
+
+    .article{
+        &-title{
+            font-size: 18px;
+        }
+
     }
 }
