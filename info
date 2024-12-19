@@ -1,1 +1,5 @@
 sass --watch .\sass\style.scss css\style.css    لتشغيل sass
+
+
+
+paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'

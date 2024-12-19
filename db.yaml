@@ -40,13 +40,13 @@ paths:
                   value:
                   - img_uri: images/picture-1.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting  '
                   - img_uri: images/picture-3.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting  '
                   - img_uri: images/picture-4.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting'
   /videos:
     get:
       description: videos
@@ -79,28 +79,28 @@ paths:
                   value:
                   - img_uri: images/picture-6.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                   - img_uri: images/picture-9.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                   - img_uri: images/picture-2.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                   - img_uri: images/picture-7.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                   - img_uri: images/picture-10.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                   - img_uri: images/picture-12.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                   - img_uri: images/picture-3.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                   - img_uri: images/picture-5.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
   /header-articles:
     get:
       description: ""
@@ -133,15 +133,15 @@ paths:
                   value:
                   - img_uri: images/picture-7.jpg
                     link: article.html
-                    title: لوريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: تكنولوجيا
                   - img_uri: images/picture-6.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: اقتصاد
                   - img_uri: images/picture-5.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر..
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: برمجة
   /most-read:
     get:
@@ -175,18 +175,18 @@ paths:
                   value:
                   - img_uri: images/picture-7.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with '
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1678149164659"
                   - img_uri: images/picture-6.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with '
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1679139164659"
                   - img_uri: images/picture-5.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر..
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with '
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1679149164659"
   /news:
     get:
@@ -220,35 +220,35 @@ paths:
                   value:
                   - img_uri: images/picture-5.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: اقتصاد
                   - img_uri: images/picture-8.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: اقتصاد
                   - img_uri: images/picture-3.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس..
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: برمجة
                   - img_uri: images/picture-1.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس..
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: اقتصاد
                   - img_uri: images/picture-8.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس..
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: اقتصاد
                   - img_uri: images/picture-10.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس..
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: تكنولوجيا
                   - img_uri: images/picture-12.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس..
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: برمجة
                   - img_uri: images/picture-15.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس..
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: أنظمة
   /opinion-articles:
     get:
@@ -282,35 +282,35 @@ paths:
                   value:
                   - user_uri: images/user_img/user_3.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     user_name: أحمد محمود
                   - user_uri: images/user_img/user_2.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     user_name: أحمد محمود
                   - user_uri: images/user_img/user_4.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     user_name: أحمد محمود
                   - user_uri: images/user_img/user_6.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     user_name: أحمد محمود
                   - user_uri: images/user_img/user_5.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     user_name: أحمد محمود
                   - user_uri: images/user_img/user_4.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     user_name: أحمد محمود
                   - user_uri: images/user_img/user_1.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     user_name: أحمد محمود
                   - user_uri: images/user_img/user_2.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     user_name: أحمد محمود
   /latest-news:
     get:
@@ -344,27 +344,27 @@ paths:
                   value:
                   - img_uri: images/picture-5.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: أنظمة تشغيل
-                    paragraph: لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     position: right
                   - img_uri: images/picture-16.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: تكنولوجيا
-                    paragraph: لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     position: side
                   - img_uri: images/picture-15.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: أخبار
-                    paragraph: لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     position: bottom
                   - img_uri: images/picture-6.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس .
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     category: تواصل اجتماعي
-                    paragraph: لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     position: bottom
   /articles:
     get:
@@ -398,7 +398,7 @@ paths:
                   value:
                     category: تكنولوجيا
                     subject: ميكروسوفت
-                    title: لوريم إيبسوم هو ببساطة نص شكلي  ويُستخدم في صناعات المطابع ودور النشر.
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
                     img_uri: images/picture-4.jpg
                     subtitle: لوريم إيبسوم هو ببساطة نص شكلي
                     datetime: "1678149164659"
@@ -411,15 +411,15 @@ paths:
                     related_articles:
                     - img_uri: images/picture-3.jpg
                       link: article.html
-                      title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                      title: 'This is a wider card with supporting '
                       category: تكنولوجيا
                     - img_uri: images/picture-8.jpg
                       link: article.html
-                      title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                      title: 'This is a wider card with supporting '
                       category: رياضة
                     - img_uri: images/picture-10.jpg
                       link: article.html
-                      title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                      title: 'This is a wider card with supporting '
                       category: عملة رقمية
                     comments:
                     - user_img: images/user_img/user_1.jpg
@@ -460,13 +460,13 @@ paths:
                   value:
                   - img_uri: images/picture-15.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting '
                   - img_uri: images/picture-12.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting '
                   - img_uri: images/picture-5.jpg
                     link: article.html
-                    title: 'لوريوم سبيوم: لوريم إيبسوم هو ببساطة نص شكلي.'
+                    title: 'This is a wider card with supporting '
   /search-article:
     get:
       description: ""
@@ -499,42 +499,42 @@ paths:
                   value:
                   - img_uri: images/picture-7.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1678149164659"
                   - img_uri: images/picture-4.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1676349164659"
                   - img_uri: images/picture-9.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1677249164659"
                   - img_uri: images/picture-1.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1678049164659"
                   - img_uri: images/picture-10.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1677149164659"
                   - img_uri: images/picture-11.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1676149164659"
                   - img_uri: images/picture-12.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1675149164659"
                   - img_uri: images/picture-16.jpg
                     link: article.html
-                    title: وريم إيبسوم هو ببساطة نص شكلي بمعنى أن الغاية هي الشكل وليس المحتوى ويُستخدم في صناعات المطابع ودور النشر.
-                    paragraph: لوريم ايبسوم دولار سيت أميت كونسيكتيتور أدايبا يسكينج أليايتسيت دو أيوسمود تيمبور لوريوم لابوري ات دولار ماجنا أليكيوا . يوت انيم أد مينيم فينايمكيواس نوستريد أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات . ديواس أيوتي أريري دولار إن ريبريهينديرأيت فوليوبتاتي فيلايت أيسسي كايلليوم دولار أيو فيجايت نيولا باراياتيور . أيكسسيبتيور ساينت أوككايكات كيوبايداتات نون بروايدينت سيونت ان كيولبا كيو أوفيسيا ديسيريونتموليت انيم أيدي ايست لابوريوم
+                    title: 'This is a wider card with supporting text below as a natural lead-in to additional content.'
+                    paragraph: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad sapiente sit, nostrum accusamus, nulla est debitis quod quasi saepe doloribus voluptatem nemo facilis officia laborum doloremque, commodi consectetur aperiam. Ab'
                     date: "1675149164659"
 components: {}
