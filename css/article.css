@@ -1,0 +1,34 @@
+.article-header {
+  margin-top: 100px;
+}
+.article-header .header-category {
+  font-size: 20px;
+}
+.article-header .header-title {
+  margin: 30px auto 30px;
+}
+
+.article-main .article-subtitle {
+  margin: 10px 0 30px;
+}
+.article-main .article-datetile {
+  font-size: 20px;
+  padding: 10px 0;
+  background-color: rgba(0, 0, 0, 0.1);
+  margin-bottom: 40px;
+  position: relative;
+}
+.article-main .article-datetile time {
+  margin-left: 25px;
+}
+.article-main .article-datetile time::after {
+  content: " ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 10px;
+  background-color: #B80000;
+}
+
+/*# sourceMappingURL=article.css.map */

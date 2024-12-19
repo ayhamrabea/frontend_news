@@ -1,0 +1,78 @@
+.search{
+    &-form{
+        margin-top: 100px;
+
+        input{
+            width: 75%;
+            padding: 8px 15px;
+            border: 1px solid $gray-color;
+            border-radius: 5px;
+        }
+        .button{
+            @include button($main-color , $white-color ,$main-color);
+            font-size: 22px;
+            margin-left: 25px;
+        }
+    }
+
+    &-line{
+        margin: 25px 0;
+        display: flex;
+        justify-content: space-between;
+        
+        span{
+            font-size: 20px;
+            margin-right: 10px;
+        }
+
+        select{
+            padding: 5px 10px;
+            border: 1px solid $gray-color;
+            border-radius: 5px;
+        }
+    }
+    &-articles{
+        .article-card{
+            padding: 25px 0;
+            border-bottom: 1px dotted $gray-color;
+
+            .article-link{
+                &:hover{
+                    color: $black-color;
+                    h4{
+                        text-decoration: underline;
+                    }
+                }
+            }
+            
+
+            h4{
+                font-size: 22px;
+            }
+            p{
+                font-size: 16px;
+                margin-top: 10px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                display: -webkit-box;
+                -webkit-line-clamp: 3;
+                line-clamp: 3;
+                -webkit-box-orient: vertical;
+            }
+            time{
+                font-size: 16px;
+                color: $gray-color;
+            }
+
+            
+        }
+    }
+
+}
+.more-resulte{
+    .button{
+        margin: 35px;
+        font-size: 22px;
+        @include button($main-color , $white-color ,$main-color);    
+    }
+}

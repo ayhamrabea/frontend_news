@@ -1,6 +1,8 @@
 
 @import './variables';
 @import './mixins';
+@import './article.scss';
+@import './search.scss';
 
 
 *{
@@ -452,6 +454,13 @@ footer{
         }
     }
 
+    .search{
+        &-form{
+            input{
+                width: 50%;
+            }
+        }
+    }
 }
 
 @media (max-width: 992px){
@@ -494,6 +503,7 @@ footer{
         }
 
     }
+
 }
 
 @media (max-width: 768px){
